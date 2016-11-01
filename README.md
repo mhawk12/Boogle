@@ -1,4 +1,2 @@
 # Boogle
-# Yo
-# Boogle
-# Boogle
+
